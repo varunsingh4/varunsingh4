@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varunsingh
 - 👀 I’m interested in ...Data Science,Web Development
-- 🌱 I’m currently learning ...Deep Learning
+- 🌱 I’m currently learning ...Machine Learning Algorithms,Deep Learning and also engaging myself in some Kaggle competitions
 - 💞️ I’m looking to collaborate on ...Brainstorming Projects
 - 📫 How to reach me ...varunvikassingh@gmail.com
 
