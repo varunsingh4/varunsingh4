@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Flask and Deployment**
 
-- 💬 Ask me about **Machine Learningand Data Analysis**
+- 💬 Ask me about **Machine Learning and Data Analysis**
 
 - 📫 How to reach me **varunvikassingh@gmail.com**
 
