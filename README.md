@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Flask and Deployment**
+- 🤝 I’m looking for help with **Flask and Deployment!**
 
 - 💬 Ask me about **Machine Learning and Data Analysis**
 
