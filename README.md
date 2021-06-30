@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Singh</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new fields</h3>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
@@ -15,7 +16,7 @@
 - 📫 How to reach me **varunvikassingh@gmail.com**
 
 - 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varun-singh-7a6748113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-singh-7a6748113" height="30" width="40" /></a>
