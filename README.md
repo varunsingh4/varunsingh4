@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
 
-- 🌱 I’m currently learning **Tensorflow,Flask,Deep Learning**
+- 🌱 I’m currently learning **NLP and Convolutional Neural Networks**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
