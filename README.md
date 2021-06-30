@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Singh</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new fields</h3>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
 
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
