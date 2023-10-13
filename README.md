@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Varun Singh</h1>
-<h3 align="center">A CSE Sophomore who loves exploring new fields</h3>
+<h3 align="center">A Software Engineer working at o9 Solutions who loves exploring new fields</h3>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
 
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
+- 🔭 I’m currently working on **Full Stack Web Development Projects**
 
-- 🌱 I’m currently learning **NLP and Convolutional Neural Networks**
+- 🌱 I’m currently learning **NLP,Backend development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Flask and Deployment!**
+- 🤝 I’m looking for help with **Deployment!**
 
-- 💬 Ask me about **Machine Learning and Data Analysis**
+- 💬 Ask me about **Javascript,Angular,C#,CSS,Machine Learning and Data Analysis**
 
-- 📫 How to reach me **varunvikassingh@gmail.com**
+- 📫 How to reach me **varun.singh@o9solutions.com**
 
 
 <h3 align="left">Connect with me:</h3>
