@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Singh</h1>
-<h3 align="center">A Software Engineer working at o9 Solutions who loves exploring new fields</h3>
+<h3 align="center">Software Development Engineer (SDE) with 2 years at o9 Solutions, proficient in C#, React, full-stack web development, passionate about LLMs, and skilled in Data Structures & Algorithms.</h3>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
 
 
@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Deployment!**
-
 - 💬 Ask me about **Javascript,Angular,C#,CSS,Machine Learning and Data Analysis**
 
-- 📫 How to reach me **varun.singh@o9solutions.com**
+- 📫 How to reach me **vnsingh@ucdavis.edu*
 
 
 <h3 align="left">Connect with me:</h3>
