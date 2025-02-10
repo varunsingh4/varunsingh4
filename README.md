@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Singh</h1>
-<h3 align="center">Software Development Engineer (SDE) with 2 years at o9 Solutions, proficient in C#, React, passionate about LLMs, and skilled in Data Structures & Algorithms.</h3>
+<h3 align="center">Software Development Engineer (SDE)-1 with 2 years at o9 Solutions, proficient in C#, React, passionate about LLMs, and skilled in Data Structures & Algorithms.</h3>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
 
 
