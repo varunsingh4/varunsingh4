@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **JavaScript, Angular, C#, CSS, Machine Learning, and Data Analysis**
+- 💬 Ask me about **Full Stack Web Development, Machine Learning, and Data Analysis**
 
 - 📫 How to reach me **vnsingh@ucdavis.edu**
 
