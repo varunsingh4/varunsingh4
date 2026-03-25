@@ -1,56 +1,115 @@
-<h1 align="center">Hi, I'm Varun Singh </h1>
-<h3 align="center">Software Development Engineer (SDE)-1 with 3 years at o9 Solutions and Saama Technologies, proficient in C#, React, passionate about LLMs, and skilled in Data Structures & Algorithms.</h3>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
+<h1 align="center">Hi 👋, I'm Varun Singh</h1>
+<h3 align="center">Software Engineer | Distributed Systems | GenAI | Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Development Projects**
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-- 🌱 I’m currently learning **NLP, Backend Development**
+---
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+## 🚀 About Me
+- 🎓 MS in Computer Science @ UC Davis (GPA: 3.8)
+- 💻 3+ years of experience in Software Engineering (o9 Solutions, Saama Technologies)
+- ⚡ Specialized in **Distributed Systems, GenAI, and Backend Engineering**
+- 🧠 Passionate about **LLMs, scalable systems, and high-performance applications**
 
-- 💬 Ask me about **Full Stack Web Development, Machine Learning, and Data Analysis**
+---
 
-- 📫 How to reach me **vnsingh@ucdavis.edu**
+## 🔭 What I'm Working On
+- Full-stack systems with **React + FastAPI**
+- **LLM-powered applications (RAG, Agents)**
+- Scalable backend architectures & distributed pipelines
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌱 Currently Learning
+- Advanced **NLP & LLM Systems Design**
+- Backend scalability (Kubernetes, System Design)
+- High-performance computing concepts
+
+---
+
+## 💬 Ask Me About
+- Distributed Systems & Microservices  
+- Backend Development (FastAPI, .NET, APIs)  
+- GenAI / LLM Applications  
+- Data Structures & Algorithms  
+
+---
+
+## 🏢 Professional Experience
+
+### **Software Engineer Intern — Saama Technologies (2025)**
+- Built **data ingestion pipelines (Python + FastAPI + PostgreSQL)** → improved reliability by **20%**
+- Developed **ETL validation framework (Pytest)** → reduced defects by **20%**
+- Designed **CI/CD pipelines (Jenkins, AWS EKS/ECR, Docker)** → improved deployment consistency
+
+### **Software Engineer I — o9 Solutions (2022–2024)**
+- Built **GenAI agents (C#, ASP.NET Core)** → reduced latency by **40%**
+- Designed **Kafka-based distributed ingestion pipelines**
+- Improved search accuracy by **25% using Elasticsearch**
+- Developed **GraphQL APIs + OAuth2 authentication**
+- Achieved **85% test coverage (xUnit, Selenium)**
+
+### **Software Engineer Intern — o9 Solutions (2022)**
+- Built secure **React + TypeScript admin platform (JWT, RBAC)**
+- Developed **25+ reusable UI components** → saved **500+ engineering hours**
+- Improved frontend performance via lazy loading & code splitting
+- Automated CI/CD → reduced manual effort by **90%**
+
+---
+
+## 🧠 Projects
+
+### 🔹 FinSight – Financial Analytics Platform
+- Built full-stack system with **FastAPI, React, MongoDB**
+- Implemented **Attention-LSTM models**
+- 📈 Improved Sharpe Ratio by **18%**, prediction accuracy **64%**
+
+### 🔹 EventFlare – Event Engagement Platform
+- Built scalable system using **React, Node.js, PostgreSQL**
+- Designed **event-driven architecture with RabbitMQ**
+- Developed **C++ ranking engine for real-time recommendations**
+
+### 🔹 Real-Time Chat Service
+- Built distributed messaging system using **Golang + gRPC**
+- Used **Redis Pub/Sub for scaling**
+- ⚡ Achieved **<100ms latency for 100+ concurrent users**
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages**
+Python • C++ • C# • JavaScript • TypeScript • Golang • Java  
+
+### **Frameworks & Tools**
+React • .NET Core • FastAPI • Flask • Spring Boot  
+
+### **Cloud & Databases**
+AWS (EKS, ECR, S3, Lambda) • PostgreSQL • MongoDB • Redis  
+
+### **Systems & Technologies**
+Kafka • RabbitMQ • Kubernetes • Docker • CI/CD • GraphQL • REST APIs  
+
+### **AI/ML**
+LLMs • NLP • RAG • PyTorch • OpenCV  
+
+---
+
+## 🔗 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/varun-singh-7a6748113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-singh-7a6748113" height="30" width="40" /></a>
-<a href="https://instagram.com/varun__211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun__211" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/VarunSinghSRM/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varun-singh-7a6748113" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/VarunSinghSRM/" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Technical Skills:</h3>
+---
 
-- **Languages:** Python, C#, C++, HTML/CSS, JavaScript, SQL, Swift  
-- **Frameworks/Tools:** React.JS, AWS, .NET Core, WebAPI, RabbitMQ, Redis, Apache Solr, MongoDB, DynamoDB, jQuery, LangChain, OpenCV, RAG, NLP, Flask, LLM, FastAPI  
-- **Industry Experience:** Software Engineering, Full Stack Web Development, NLP, Agile Scrum Facilitation  
+## 📫 Contact
+📧 vnsingh@ucdavis.edu  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/> </a>  
-<a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>  
-<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>  
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/> </a>  
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> </a>  
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsingh4&show_icons=true&locale=en&layout=compact" alt="varunsingh4" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunsingh4&show_icons=true&locale=en" alt="varunsingh4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsingh4&" alt="varunsingh4" /></p>
+⭐ *Open to Software Engineering Internships & Full-Time Opportunities*
